@@ -1,1 +1,5 @@
 matplotlib
+sklearn
+numpy
+datetime
+statsmodels
