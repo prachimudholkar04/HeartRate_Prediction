@@ -8,4 +8,4 @@ mean_absolute_percentage_error
 timedelta
 ARIMA
 ExponentialSmoothing 
-sklearn.metrics
+scikit-learn
