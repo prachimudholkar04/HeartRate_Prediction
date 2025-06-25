@@ -1,4 +1,5 @@
 matplotlib
+pip
 sklearn
 numpy
 datetime
